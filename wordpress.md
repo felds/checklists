@@ -1,8 +1,8 @@
 # Wordpress
 
-> Boas práticas para criação de temas e seus ambientes de desenvolvimento.
+Boas práticas para criação de temas e seus ambientes de desenvolvimento.
 
-### Instalação
+## Desenvolvimento
 
 + [ ] Acionar debug
 
