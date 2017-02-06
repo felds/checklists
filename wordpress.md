@@ -2,6 +2,8 @@
 
 > Boas práticas para criação de temas e seus ambientes de desenvolvimento.
 
+### Instalação
+
 + [ ] Acionar debug
 
   ```php
@@ -32,7 +34,8 @@
   ```
 
 
-## + Jetpack
+### + Jetpack
+
 + [ ] Habilitar debug no ambiente de desenvolvimento
 
   ```php
@@ -40,7 +43,39 @@
   ```
 
 
-## + ACF
+### + ACF
+
 + [ ] Mover para dentro do tema
 + [ ] Habilitar salvamento em JSON
 + [ ] Criar link na pasta de plugins na instalação de debug para fazer atualizações
+
+***
+
+## Deploy
+
+### Plugins importantes
+
++ [ ] Jetpack
+
+### Nginx
+
++ [ ] HTTPS + HTTP2
+
+### PHP
+
++ [ ] Aumentar limite de upload de arquivos
++ [ ] Instalar extensões:
+  + [ ] GD
+
+### Segurança e permissões
+
++ [ ] Desabilitar execução nas pastas de uploads
++ [ ] Permitir atualização pelo admin
++ [ ] Conectar ao Wordpress.com pelo Jetpack
++ [ ] Instalar firewall (fail2ban) para evitar ataques DDoS no `xmlrpc.php`
+
+
+
+
+
+
