@@ -1,4 +1,4 @@
-# Wordpress
+# Desenvolvimento de temas para Wordpress
 
 Boas práticas para criação de temas e seus ambientes de desenvolvimento.
 

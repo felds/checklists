@@ -6,7 +6,7 @@ Contribuições são **muito** bem vindas! :)
 
 
 ## Desenvolvimento
-* [Desenvolvimento de temas Wordpress](wordpress.md)
+* [Desenvolvimento de temas Wordpress](dev/wordpress-themes.md)
 
 
 ## Design
