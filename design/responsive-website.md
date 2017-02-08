@@ -1,6 +1,8 @@
 # Design de website responsivo
 
 * [ ] Fontes
+
+
 * [ ] Favicons
 
   **O site ou sistema deve ter os ícones compatíveis com os principais sistemas operacionais e navegadores.**
@@ -16,12 +18,19 @@
   Além disso, ele também gera os temas para Android e customiza o ícone de aplicação no Windows.
 
 * [ ] Imagens
+
 * [ ] Iconografia
+
 * [ ] Paleta de cores
+
 * [ ] Menus
+
 * [ ] Resoluções e orientações
+
 * [ ] Títulos e descrições
+
 * [ ] Estilos básicos de conteúdo
+
 * [ ] Cards e descrições de compartilhamento
 
   **O site ou sistema deve funcionar nos tamanhos de dispositivos mais populares
@@ -43,6 +52,7 @@
   | Huffington Post | 480       | 767       | 995                 | 1190      |
   | Twitter         | 325       | 520       | 880                 | 1094      |
   | Bootstrap       | 576       | 768       | 992                 | 1200      |
+
 
 * [ ] Interações em diferentes dispositivos
 
