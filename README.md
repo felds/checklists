@@ -5,20 +5,25 @@ Coleção de checklists para desenvolvimento, deploy, design e outras atividades
 Contribuições são **muito** bem vindas! :)
 
 
+
 ## Desenvolvimento
+
 * [Desenvolvimento de temas Wordpress](dev/wordpress-themes.md)
+
 
 
 ## Design
 
-### Em breve
+* [Design de website responsivo](design/responsive-website.md)
 
-* Design de website responsivo
+#### Em breve
+
 * Lista de estilos gerais para HTML
+
 
 
 ## DevOps
 
-### Em breve
+#### Em breve
 
 * Criação de ambiente PHP seguro em VPS
