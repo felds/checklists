@@ -60,4 +60,4 @@ Segue uma tabela com os 4 breakpoints máximos mais significantes usados em algu
 Como o conteúdo vai reagir a mouse, touch, ambos ou nenhum deles?
 
 Não é recomendado, por exemplo, que algum conteúdo seja revelado apenas no `hover`,
-já que esta interação não acontece em dispositivos com touch
+já que esta interação não acontece em dispositivos com touch.
