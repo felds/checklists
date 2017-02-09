@@ -11,6 +11,7 @@
 * [ ] Estilos básicos de conteúdo
 * [ ] [Cards e descrições de compartilhamento](#social)
 * [ ] [Interações em diferentes dispositivos](#device-specific-interactions)
+* [ ] [404](#404)
 
 
 
@@ -61,3 +62,11 @@ Como o conteúdo vai reagir a mouse, touch, ambos ou nenhum deles?
 
 Não é recomendado, por exemplo, que algum conteúdo seja revelado apenas no `hover`,
 já que esta interação não acontece em dispositivos com touch.
+
+
+
+## 404
+
+O que deve aparecer quando o usuário tentar acessar uma página que não existe?
+
+É interessante informar o usuário do erro ao mesmo tempo que o direciona para algum lugar de interesse (ex: home, busca, tags/categorias/posts/páginas mais populares).
