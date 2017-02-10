@@ -11,7 +11,7 @@ Boas práticas para criação de temas e seus ambientes de desenvolvimento.
 * [ ] [Configurar atualizações locais](#atualizações-locais)
 * [ ] [Carregar snippet do Livereload quando em modo debug](#livereload)
 * [ ] [Habilitar debug do Jetpack](#jetpack)
-* [ ] Fontes no editor
+* [ ] [Fontes no editor](#fontes-no-editor)
 
 
 ### Debug
@@ -64,6 +64,24 @@ define('FS_METHOD', 'direct');
 define('JETPACK_DEV_DEBUG', true);
 ```
 
+
+### Fontes no editor
+
+```php
+// functions.php
+/**
+ * Registers an editor stylesheet for the theme.
+ */
+add_action('admin_init', function () {
+  add_editor_style('css/editor.css');
+});
+```
+
+```css
+/* editor.css - important targets */
+body#tinymce.wp-editor { /* ... */ }
+body#tinymce.wp-editor a { /* ... */ }
+```
 
 
 ### + ACF
