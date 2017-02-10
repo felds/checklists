@@ -42,7 +42,8 @@ Boas práticas para criação de temas e seus ambientes de desenvolvimento.
 	  	}
   	});
 	```
- 
+
+* [ ] Refletir fontes (e talvez cores) no editor.
 
 
 ### + Jetpack
