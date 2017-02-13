@@ -1,6 +1,6 @@
 # Design de website responsivo
 
-* [ ] Fontes
+* [ ] [Fontes](#fontes)
 * [ ] [Favicons](#favicons)
 * [ ] Imagens
 * [ ] Iconografia
@@ -13,6 +13,29 @@
 * [ ] [Interações em diferentes dispositivos](#device-specific-interactions)
 * [ ] [404](#404)
 
+
+## Fontes
+
+* **CDNs**
+
+  Podem ser usadas fontes de CDNs como [Google Fonts](https://fonts.google.com/),
+  e [Adobe TypeKit](https://typekit.com) (precisa de conta Creative Cloud).
+
+  Estas opções não são recomendadas para conteúdo offline, já que elas dependem
+  de conexão com a internet, e também para conteúdos confidenciais, já que
+  revelam a estrutura dos sistemas para os provedores das fontes (não o conteúdo).
+
+* **TTF**
+
+  É possível usar fontes do tipo `ttf` convertidas para Web.
+
+  Para isso, é necessário que tenhamos a licensa para uso web das fontes a
+  serem usadas.
+
+* **Fontes próprias**
+
+  Fontes criadas *in-house* podem ser convertidas e usadas como qualquer outra
+  fonte.
 
 
 ## Favicons<a name="favicons"></a>
