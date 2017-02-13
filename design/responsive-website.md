@@ -49,14 +49,30 @@ resoluções de tela?
   <li>Listas NÃO-ORDENADAS</li>
   <li>com conteúdos de diferentes tamanhos.</li>
   <li>palavras, frases, números e textos mais extensos...</li>
-  <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>
+  <li>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+    non proident, sunt in culpa qui officia deserunt mollit anim id est
+    laborum.
+   </li>
 </ul>
 
 <ol>
   <li>Listas ORDENADAS (opcional)</li>
   <li>com conteúdos de diferentes tamanhos.</li>
   <li>palavras, frases, números e textos mais extensos...</li>
-  <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>
+  <li>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+    non proident, sunt in culpa qui officia deserunt mollit anim id est
+    laborum.
+   </li>
 </ol>
 ```
 
@@ -68,9 +84,12 @@ resoluções de tela?
 **O site ou sistema deve funcionar nos tamanhos de dispositivos mais populares
 e nas orientações vertical e horizontal (no caso de dispositivos móveis).**
 
-Elementos como abas e conteúdos fixos (c/ paralax) podem não funcionar corretamente em dispositivos menores ou na horizontal, onde alguns dispositivos exibem apenas um parágrafo médio de texto.
+Elementos como abas e conteúdos fixos (c/ paralax) podem não funcionar
+corretamente em dispositivos menores ou na horizontal, onde alguns dispositivos
+exibem apenas um parágrafo médio de texto.
 
-Alguns elementos podem ser simplificados e outros até removidos caso estes não sejam extritamente necessários para o entendimento do conteúdo.
+Alguns elementos podem ser simplificados e outros até removidos caso estes não
+sejam extritamente necessários para o entendimento do conteúdo.
 
 ### Breakpoints mais comuns
 
