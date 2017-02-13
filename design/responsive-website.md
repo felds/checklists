@@ -14,28 +14,39 @@
 * [ ] [404](#404)
 
 
+
 ## Fontes
 
-* **CDNs**
+### CDNs
 
-  Podem ser usadas fontes de CDNs como [Google Fonts](https://fonts.google.com/),
-  e [Adobe TypeKit](https://typekit.com) (precisa de conta Creative Cloud).
+CDNs são *Content Distribution Networks*. Esses serviços hospedam as fontes e as
+disponibilizam sob demanda, sem a necessidade de manter uma cópia da fonte.
 
-  Estas opções não são recomendadas para conteúdo offline, já que elas dependem
-  de conexão com a internet, e também para conteúdos confidenciais, já que
-  revelam a estrutura dos sistemas para os provedores das fontes (não o conteúdo).
+Podem ser usadas fontes de CDNs como [Google Fonts](https://fonts.google.com/),
+e [Adobe TypeKit](https://typekit.com) (precisa de conta Creative Cloud).
 
-* **TTF**
+Estas opções não são recomendadas para conteúdo offline, já que elas dependem
+de conexão com a internet, e também para conteúdos confidenciais, já que
+revelam a estrutura dos sistemas para os provedores das fontes (não o conteúdo).
 
-  É possível usar fontes do tipo `ttf` convertidas para Web.
+Esta opção costuma ser mais rápida para o desenvolvimento (pois facilita a troca
+de fontes e pesos) e para o site final, já que estes serviços são otimizados
+para downloads rápidos e usam melhor o cache do navegador.
 
-  Para isso, é necessário que tenhamos a licensa para uso web das fontes a
-  serem usadas.
 
-* **Fontes próprias**
+### TTF
 
-  Fontes criadas *in-house* podem ser convertidas e usadas como qualquer outra
-  fonte.
+É possível usar fontes do tipo `ttf` convertidas para Web.
+
+Para isso, é necessário que tenhamos a licensa para uso web das fontes a serem
+usadas.
+
+
+### Fontes próprias
+
+Fontes criadas *in-house* podem ser convertidas e usadas como qualquer outra
+fonte.
+
 
 
 ## Favicons<a name="favicons"></a>
@@ -52,6 +63,7 @@ devido aos diversos tamanhos de tela e densidade de pixels, é bem difícil gere
 O site http://realfavicongenerator.net/ consegue gerar um pacote de ícones compatíveis com todos os navegadores e SOs mais usados.
 
 Além disso, ele também gera os temas para Android e customiza o ícone de aplicação no Windows.
+
 
 
 ## Estilos básicos de conteúdo
@@ -103,9 +115,8 @@ resoluções de tela?
   e
   <button type="button">Botões</button>
 </p>
-```
-
 <!-- @TODO forms, images, deeper lists -->
+```
 
 
 ## Cards e descrições de compartilhamento<a name="social"></a>
