@@ -8,7 +8,7 @@
 * [ ] Menus
 * [ ] Resoluções e orientações
 * [ ] Títulos e descrições
-* [ ] [Estilos básicos de conteúdo](#Estilos básicos de conteúdo)
+* [ ] [Estilos básicos de conteúdo](#estilos-básicos-de-conteúdo)
 * [ ] [Cards e descrições de compartilhamento](#social)
 * [ ] [Interações em diferentes dispositivos](#device-specific-interactions)
 * [ ] [404](#404)
