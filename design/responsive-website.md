@@ -74,6 +74,12 @@ resoluções de tela?
     laborum.
    </li>
 </ol>
+
+<p>
+  <a href="#">Links</a>
+  e
+  <button type="button">Botões</button>
+</p>
 ```
 
 <!-- @TODO forms, images, deeper lists -->
