@@ -8,7 +8,7 @@
 * [ ] Menus
 * [ ] Resoluções e orientações
 * [ ] Títulos e descrições
-* [ ] Estilos básicos de conteúdo
+* [ ] [Estilos básicos de conteúdo](#Estilos básicos de conteúdo)
 * [ ] [Cards e descrições de compartilhamento](#social)
 * [ ] [Interações em diferentes dispositivos](#device-specific-interactions)
 * [ ] [404](#404)
@@ -30,6 +30,37 @@ O site http://realfavicongenerator.net/ consegue gerar um pacote de ícones comp
 
 Além disso, ele também gera os temas para Android e customiza o ícone de aplicação no Windows.
 
+
+## Estilos básicos de conteúdo
+
+Como devem se parecer os seguintes elementos? Como eles devem se comportar em diferentes
+resoluções de tela?
+
+```html
+<h1>Título principal (artigo)</h1>
+
+<h2>Título secundário (seção do artigo)</h2>
+<p>Cada tópico do conteúdo.</p>
+
+<h3>Título terciário (detalhes ou sub-seções)</h3>
+<p>Neste documento, é a descrição de alguma ferramenta ou processo.</p>
+
+<ul>
+  <li>Listas NÃO-ORDENADAS</li>
+  <li>com conteúdos de diferentes tamanhos.</li>
+  <li>palavras, frases, números e textos mais extensos...</li>
+  <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>
+</ul>
+
+<ol>
+  <li>Listas ORDENADAS (opcional)</li>
+  <li>com conteúdos de diferentes tamanhos.</li>
+  <li>palavras, frases, números e textos mais extensos...</li>
+  <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>
+</ol>
+```
+
+<!-- @TODO forms, images, deeper lists -->
 
 
 ## Cards e descrições de compartilhamento<a name="social"></a>
